@@ -16,8 +16,8 @@
                 <li><a href="#">Contact us</a></li>
             </ul>
             <form id="search-container" class="inputs">
-                <input type="text" placeholder="Search.." name="search">
-                <button type="submit"><i class="fa fa-search"></i></button>
+                <input id="cityInput" type="text" placeholder="Search.." name="search">
+                <button id="search-submit" type="submit"><i class="fa fa-search"></i></button>
             </form>               
         </nav>
         <section id="main-section">
@@ -26,11 +26,8 @@
                     <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
                     <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
                     <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
-                    <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
-                    <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
                 </div>    
                 <div>
-                    <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
                     <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
                     <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
                     <p>Lorem ipsum Lorem ipsum Lorem ipsum</p>
@@ -38,28 +35,24 @@
             </div>
             <div id="nowcast&locInfo">
                 <div id="nowCast">
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                </div>
-                <div id="countryInfor">
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                    <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
+                    <h2>Data not Available</h2>
                 </div>
             </div>
-            <div id="countryInfor">
-                <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
-                <p>Lorem ipsum2 Lorem ipsum2 Lorem ipsum2</p>
+            
+            <div id="countryInfor" class="dropdown">
+                <h2 id="dropbtn1" class="dropbtn">Country Details <i id="dropDownID" style="float:right" class="fa fa-arrow-down" aria-hidden="true"></i></h2>
+                <div id="countryInfo-Dropdown" class="dropdown-content">
+                    <h2>Location not Available</h2>
+                </div>
+                
             </div>
+            <!-- <div id="countryInfor" class="dropdown">
+                <h2 id="dropbtn1" class="dropbtn">Country Details <i id="dropDownID" style="float:right" class="fa fa-arrow-down" aria-hidden="true"></i></h2>
+                <div id="countryInfo-Dropdown" class="dropdown-content">
+                    <h2>Location not Available</h2>
+                </div> 
+            </div> -->
         </section>
     </body>
-    <!-- <script src="weatherJS2.js" defer></script> -->
+    <script src="weatherJS2.js" defer></script>
 </html>

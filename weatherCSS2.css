@@ -56,8 +56,9 @@ nav > form#search-container {
 }
 
 form#search-container input{
- width: 250px;
- height: 25px;
+    text-align: center;
+    width: 250px;
+    height: 25px;
 }
 
 form#search-container button{
@@ -88,35 +89,69 @@ section#main-section div {
 }
 
 
+#nowCast p span{
+    color: #90006e;
+    font-size: 2.5vh;
+}
+
+#nowCast p{
+    padding: 3px;  
+}
 
 
+#countryInfor {
+    height: 27vh; 
+    width: 45vh;   
+}
+
+#weekDayForecast > div:nth-child{
+    background-color: blue;
+    border-color: black;
+}
 
 
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+}
+
+/* Links inside the dropdown */
+.dropdown-content * {
+    color: black;
+    padding: 6px 16px;
+    text-decoration: none;
+    display: block;
+  }
+
+  /* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 220px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+.dropbtn {
+    background-color: rgb(223, 209, 209);
+    padding: 5px;
+    border: solid 0.5px;
+    border-radius: 25px;
+    align-items: center;
+}
 
 
+.dropbtn:hover {
+    cursor: pointer;
+    background-color: rgb(65, 130, 192);
+}
+
+/* Show the dropdown menu 
+(use JS to add this class to the .dropdown-content 
+container when the user clicks on the dropdown button) */
+.show {display:block;}
 
 
-
-
-
-
-
-
-/* 
-
-box-sizing: border-box;
-
-position: relative;
-width: 1440px;
-height: 2350px;
-
-background: #5061BC;
-border: 0.937143px solid #000000;
-
-
-position: absolute;
-width: 1440px;
-height: 138px;
-left: 0px;
-top: 0px; 
-*/
