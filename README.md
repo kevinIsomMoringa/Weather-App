@@ -9,3 +9,4 @@ Wiather is a web app that gives you the Now Cast of a specific place with additi
 - link to live site on GitHub Pages:
 https://kevinisommoringa.github.io/Wiather-App/
 - copyright and license information
+This project is licensed under the terms of the MIT license.
