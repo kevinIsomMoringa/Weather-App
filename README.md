@@ -1,6 +1,6 @@
 
 # Wiather-App
-# A webpage for Weather NowCasting
+**A webpage for Weather NowCasting**
 
 
 ##### By Kevin Isom
@@ -67,7 +67,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ​
-** [Go Back to the top](# Wiather)
+**[Go Back to the top](# Wiather)**
 ​
 ## Authors Info
 LinkedIn - [Kevin Isom](https://www.linkedin.com/in/kevin-isom-a58bb3201/)
