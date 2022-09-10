@@ -67,15 +67,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ​
-<<<<<<< HEAD
-<<<<<<< HEAD
-**[Go Back to the top](# Wiather)**
-=======
-** [Go Back to the top](#Wiather)
->>>>>>> origin/main
-=======
-** [Go Back to the top](#Wiather)
->>>>>>> d1e1b65aeb274534f125138f0775885149fdb8f7
 ​
 ## APIs Used
 * [Flagcdn](https://flagcdn.com/)
