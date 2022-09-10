@@ -14,7 +14,7 @@
 + [Technology Used](#technology-used)
 + [Licence](#licence)
 + [APIs Used](#APIs Used)
-​+ [Authors Info](#author-Info)
++ [Authors Info](#author-Info)
 
 ## Description
 <p>This is  a website that informs a user of the Weather conditions/climate. In this site, one is able to get weather Information of their desired location</p>
