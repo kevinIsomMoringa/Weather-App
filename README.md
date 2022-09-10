@@ -70,19 +70,19 @@ SOFTWARE.
 ** [Go Back to the top](#Wiather)
 ​
 ## APIs Used
-*[Flagcdn](https://flagcdn.com/)
+* [Flagcdn](https://flagcdn.com/)
 Used to fetch flag Image link of a country using Country Short Codes
 
-*[Country Info in rapidapi](https://rapidapi.com/workmates-lab-workmates-lab-default/api/country-info/)
+* [Country Info in rapidapi](https://rapidapi.com/workmates-lab-workmates-lab-default/api/country-info/)
 This API will return all country details from the server. It contains the following info
 
-Country Name
-Country Code
-Dial Code
-Continent
-Currency Code
+ -Country Name
+ -Country Code
+ -Dial Code
+ -Continent
+ -Currency Code
 
-*[OpenWeather API](https://openweathermap.org/current)
+* [OpenWeather API](https://openweathermap.org/current)
 This API will return all current weather Information about a specific location
 
 ## Authors Info
